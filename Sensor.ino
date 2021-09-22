@@ -1,4 +1,5 @@
 //Rohan Rajesh Kalbag and Aabir Lal Biswas
+//Board Used - Arduino UNO R3 Microcontroller Board 
 int analogInt;
 int sensorPin = A0;
 int timer = 0;
