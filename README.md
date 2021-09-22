@@ -3,7 +3,7 @@ Course Project done in Department Introductory Course EN 110 - Spring Semester 2
 
 ## **Course Instructor - Prof S.B Kedare**
 
-# Group Project by Rohan Rajesh Kalbag and Aabir Lal Biswas
+### Group Project by Rohan Rajesh Kalbag and Aabir Lal Biswas
 
 - Designed and Assembled a fully functional Box Type Solar Cooker
 
