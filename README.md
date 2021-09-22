@@ -1,4 +1,5 @@
 # Box-Type-Solar-Cooker-Design-Project
+
 Course Project done in Department Introductory Course EN 110 - Spring Semester 2020
 
 ## **Course Instructor - Prof S.B Kedare**
@@ -9,5 +10,9 @@ Course Project done in Department Introductory Course EN 110 - Spring Semester 2
 
 - Wrote a program in Arduino IDE to monitor the temperature of the Box Type Solar Cooker using LM 35 Analog Temperature Sensor, plotted its heating curve using Python (matplotlib.pyplot library) and
 calculated its steady state temperature.
+
+- The code for that can be found here: <a href="https://github.com/rohankalbag/Box-Type-Solar-Cooker-Design-Project/blob/main/Sensor.ino">Arduino Code</a> and <a href="https://github.com/rohankalbag/Box-Type-Solar-Cooker-Design-Project/blob/main/Graph%20Plotter.ipynb">Python Code</a>
+
+- The report can be found <a href="https://github.com/rohankalbag/Box-Type-Solar-Cooker-Design-Project/blob/main/Solar%20Cooker%20Report.pdf">here</a> 
 
 - Calculated its performance parameters and First Figure of Merit F1
