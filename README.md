@@ -1,4 +1,4 @@
-# Box-Type-Solar-Cooker-Design-Project
+# Design and assembly of a fully functional box type solar cooker
 
 Course Project done in Department Introductory Course EN 110 - Spring Semester 2020
 
