@@ -1,6 +1,6 @@
 # Design and assembly of a fully functional box type solar cooker
 
-Course Project done in Department Introductory Course EN 110 - Spring Semester 2020
+Course Project - Fundamentals of Energy Engineering - EN 110 - Spring Semester 2020
 
 ## **Course Instructor - Prof S.B Kedare**
 
